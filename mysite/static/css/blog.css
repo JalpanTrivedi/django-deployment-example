@@ -1,6 +1,6 @@
 .techfont{
   font-family: 'Russo One', sans-serif;
-  font-size: 0.5em;
+  font-size: 1.5em;
   margin-bottom: 10px;
 }
 
@@ -10,13 +10,13 @@
 
 .posttitle{
   font-family: 'Russo One', sans-serif;
-  font-size: 1.5em;
+  font-size: 3em;
   text-align: center;
 }
 
 .postcontent{
   font-family: 'Montserrat';
-  font-size: 1.5em;
+  font-size: 1em;
 }
 
 .centerstage{
@@ -30,7 +30,7 @@
 }
 
 .bigbrand{
-  font-size: 1.5em;
+  font-size: 3em;
 }
 
 .textareaclass{
